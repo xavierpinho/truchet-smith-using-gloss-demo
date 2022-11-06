@@ -12,4 +12,4 @@ Press Escape to close the window.
 
 ## License
 
-Public domain (see the `UNLICENSE` file.)
+Public domain (see the `LICENSE` file.)

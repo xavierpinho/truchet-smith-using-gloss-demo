@@ -3,7 +3,7 @@ name:               truchet-smith-using-gloss-demo
 version:            0.1.0.0
 synopsis:           Truchet-Smith tilings using the `gloss` library
 license:            Unlicense
-license-file:       UNLICENSE
+license-file:       LICENSE
 author:             Xavier Pinho
 maintainer:         mail@xavierp.org
 extra-source-files: README.md

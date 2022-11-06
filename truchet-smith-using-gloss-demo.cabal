@@ -1,0 +1,17 @@
+cabal-version:      2.4
+name:               truchet-smith-using-gloss-demo
+version:            0.1.0.0
+synopsis:           Truchet-Smith tilings using the `gloss` library
+license:            Unlicense
+license-file:       UNLICENSE
+author:             Xavier Pinho
+maintainer:         mail@xavierp.org
+extra-source-files: README.md
+
+executable truchet-smith-using-gloss-demo
+    main-is:          Main.hs
+    build-depends:    base ^>=4.16.3.0
+                 ,    gloss ^>=1.13.2
+                 ,    random ^>=1.1
+    hs-source-dirs:   src
+    default-language: Haskell98
